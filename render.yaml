@@ -1,6 +1,1 @@
-services:
-  - type: web
-    name: roots-api
-    runtime: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python send_to_sheets.py"
+
